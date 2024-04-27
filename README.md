@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @samyak-bhatt
+- 👋 Hi, I’m samyak-bhatt
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
-- 📫 How to reach me on youtube
 
 <!---
 samyak-bhatt/samyak-bhatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
